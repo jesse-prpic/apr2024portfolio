@@ -1,0 +1,27 @@
+:root {
+    --primary-color: #4f73b6;
+    --secondary-color: #5d6861;
+    --primary-background: #8a3e3e;
+}
+body{
+    margin: 0;
+}
+header {
+    background-color: var(--primary-color);
+    text-align: center;
+    padding: 16px;
+}
+
+.logo-name a img{
+    height: 40px;
+}
+.name {
+    font-size: 32px;
+}
+
+.coder-text{
+    color: #45A7C5;
+}
+.academy-text {
+    color: #1C3c5C;
+}
